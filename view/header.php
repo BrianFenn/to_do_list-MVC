@@ -4,7 +4,7 @@
 <head>
     <title>My To Do List</title>
     <link rel="stylesheet" type="text/css"
-          href="./view/main.css">
+          href="view/main.css">
 </head>
 
 <!-- the body section -->
