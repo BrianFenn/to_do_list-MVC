@@ -1,4 +1,4 @@
-<?php include './view/header.php'; ?>
+<?php include 'view/header.php'; ?>
 <main>
     <h1>My To Do List</h1>
 
