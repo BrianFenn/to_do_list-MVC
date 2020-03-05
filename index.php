@@ -1,7 +1,7 @@
 <?php
-require('./model/database.php');
-require('./model/item_db.php');
-require('./model/category_db.php');
+require('model/database.php');
+require('model/item_db.php');
+require('model/category_db.php');
 
 $action = filter_input(INPUT_POST, 'action');
 if ($action == NULL) {
